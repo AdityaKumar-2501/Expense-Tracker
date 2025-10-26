@@ -258,7 +258,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/expense-tracker-backend.git
+git clone https://github.com/AdityaKumar-2501/Expense-Tracker.git
 cd expense-tracker-backend
 
 # Build
@@ -281,3 +281,6 @@ The server starts at:
 * 🌍 Add currency and localization support
 * 💬 Integrate with a React/Next.js frontend
 
+---
+
+Made By [Aditya Kumar](https://github.com/AdityaKumar-2501)
